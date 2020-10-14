@@ -9,6 +9,6 @@
   
 👨‍💻 22 Years old Developer  
 👨‍🎓 Studying Information Technology, SLIIT  
-🚧 **Current Project:** [Hospital Management System](https://github.com/Faculty-of-Computing-Student-Community/FCSC-Web)
+🚧 **Current Project:** [FCSC official website](https://github.com/Faculty-of-Computing-Student-Community/FCSC-Web)
 
 ⭐️ From [KaveeshaG](https://github.com/KaveeshaG)
