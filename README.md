@@ -7,8 +7,7 @@
 [![info@kaveeshagimhana.com](https://img.shields.io/static/v1?label=info@kaveeshagimhana.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@kaveeshagimhana.com)
   
   
-👨‍💻 22 Years old Developer  
-👨‍🎓 Studying Information Technology, SLIIT  
+👨‍💻 Software Engineer Full-Stack @CareHires  
 🚧 **Current Project:** [FCSC official website](https://github.com/Faculty-of-Computing-Student-Community/FCSC-Web)
 
 ⭐️ From [KaveeshaG](https://github.com/KaveeshaG)
