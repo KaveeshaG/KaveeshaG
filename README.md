@@ -8,6 +8,6 @@
   
   
 👨‍💻 Software Engineer Full-Stack @CareHires  
-🚧 **Current Project:** [FCSC official website](https://github.com/Faculty-of-Computing-Student-Community/FCSC-Web)
+🚧 **Current Project:** [CareHires SaaS](https://github.com/carehires/business-webapp-rota)
 
 ⭐️ From [KaveeshaG](https://github.com/KaveeshaG)
