@@ -7,7 +7,7 @@
 [![info@kaveeshagimhana.com](https://img.shields.io/static/v1?label=info@kaveeshagimhana.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@kaveeshagimhana.com)
   
   
-👨‍💻 Software Engineer Full-Stack @CareHires  
+👨‍💻 Software Engineer T-Shaped @CareHires  
 🚧 **Current Project:** [CareHires SaaS](https://github.com/carehires/business-webapp-rota)
 
 ⭐️ From [KaveeshaG](https://github.com/KaveeshaG)
