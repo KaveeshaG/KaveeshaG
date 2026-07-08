@@ -6,8 +6,8 @@
 <!-- Social / contact badges -->
 [![Website](https://img.shields.io/badge/kaveeshagimhana.com-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaveeshagimhana.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://blog.kaveeshagimhana.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaveeshagimhana/)
-[![Email](https://img.shields.io/badge/info@kaveeshagimhana.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@kaveeshagimhana.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaveeshag/)
+[![Email](https://img.shields.io/badge/uakaveeshagimhana@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uakaveeshagimhana@gmail.com)
 
 </div>
 
