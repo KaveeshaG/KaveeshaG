@@ -16,6 +16,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Debug — list files at repo root
+        run: |
+          echo "Working directory: $(pwd)"
+          ls -la
+          echo "Current branch: ${{ github.ref_name }}"
+
       - name: Update Credly badges
         uses: Sagargupta16/credly-badge-readme-action@v1
         with:
