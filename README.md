@@ -22,11 +22,11 @@ metadata:
   name: Kaveesha Gimhana
   location: Colombo, Sri Lanka 🇱🇰
 spec:
-  role: Senior Software Engineer @ CareHires (UK, Remote)
+  role: Senior Software Engineer
   focus:
     - Kubernetes & Cloud Native Infrastructure (EKS, ArgoCD, Traefik)
     - GitOps & Platform Engineering
-    - Observability (Prometheus, Grafana)
+    - Observability (Prometheus, Grafana, Newrelic)
   community:
     - Co-Organizer @ KCD Sri Lanka ☸️
     - Kubernetes Sri Lanka Meetups
@@ -87,6 +87,15 @@ spec:
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **More on [blog.kaveeshagimhana.com](https://blog.kaveeshagimhana.com)**
+
+---
+
+## 📜 Certifications
+
+<!-- CREDLY-BADGES:START -->
+<!-- CREDLY-BADGES:END -->
+
+➡️ **Verify on [Credly](https://www.credly.com/users/kaveesha-gimhana)**
 
 ---
 
