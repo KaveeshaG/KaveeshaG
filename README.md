@@ -93,6 +93,25 @@ spec:
 ## 📜 Certifications
 
 <!-- CREDLY-BADGES:START -->
+🏅 **Industry Certifications**
+
+<div align="center">
+
+
+</div>
+
+📚 **Knowledge & Learning Badges**
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/8428ef8e-f842-4768-b093-20dc42e38873" title="Organizer: 2025 KCD"><img src="https://images.credly.com/size/100x100/images/90bc5dc7-5188-4b3e-ae00-6794cfc6d1be/blob" alt="Organizer: 2025 KCD" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/bc6aea95-9918-44df-b5a5-c87f066501ce" title="Contributor - KCD Sri Lanka 2025"><img src="https://images.credly.com/size/100x100/images/a3993991-5280-42a2-84f0-a813623eb1e2/blob" alt="Contributor - KCD Sri Lanka 2025" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/f81641ce-3f0b-4fb4-9669-275fd20663df" title="LFC102: Inclusive Open Source Community Orientation"><img src="https://images.credly.com/size/100x100/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob" alt="LFC102: Inclusive Open Source Community Orientation" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/fcc813c6-f3db-43c4-8737-6619201b76d8" title="Program Committee Member: Kubernetes Community Days 2023"><img src="https://images.credly.com/size/100x100/images/ec106369-5571-493d-80dd-8ef7be486870/image.png" alt="Program Committee Member: Kubernetes Community Days 2023" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/f06bcaf7-d219-48f0-aa5d-1c6bfe2f2498" title="Program Committee Member: Kubernetes Community Days 2022"><img src="https://images.credly.com/size/100x100/images/7d985777-5530-4a6f-b826-7685c4cc0ea7/image.png" alt="Program Committee Member: Kubernetes Community Days 2022" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/bcf62a94-9408-4d98-8096-2ab951348664" title="Docker Essentials: A Developer Introduction"><img src="https://images.credly.com/size/100x100/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" alt="Docker Essentials: A Developer Introduction" width="100" height="100"></a>
+
+</div>
 <!-- CREDLY-BADGES:END -->
 
 ➡️ **Verify on [Credly](https://www.credly.com/users/kaveesha-gimhana)**
