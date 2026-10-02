@@ -98,6 +98,7 @@ spec:
 <div align="center">
 
 <a href="https://www.credly.com/badges/4a904a41-b3e5-49b1-83c4-d29c662c3e36" title="CNCF Ambassador: 2026 - 2028"><img src="https://images.credly.com/size/100x100/images/797835d6-13a4-4977-9738-3c94129f3721/blob" alt="CNCF Ambassador: 2026 - 2028" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/2a30cf55-2fce-4b93-bf1c-e9b911999b10" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/100x100/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/8428ef8e-f842-4768-b093-20dc42e38873" title="Organizer: 2025 KCD"><img src="https://images.credly.com/size/100x100/images/90bc5dc7-5188-4b3e-ae00-6794cfc6d1be/blob" alt="Organizer: 2025 KCD" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/bc6aea95-9918-44df-b5a5-c87f066501ce" title="Contributor - KCD Sri Lanka 2025"><img src="https://images.credly.com/size/100x100/images/a3993991-5280-42a2-84f0-a813623eb1e2/blob" alt="Contributor - KCD Sri Lanka 2025" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/f81641ce-3f0b-4fb4-9669-275fd20663df" title="LFC102: Inclusive Open Source Community Orientation"><img src="https://images.credly.com/size/100x100/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob" alt="LFC102: Inclusive Open Source Community Orientation" width="100" height="100"></a>
